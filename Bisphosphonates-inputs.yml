@@ -1,0 +1,210 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/bisphosphonates-climaval---primary.py
+inputModule3:
+  class: File
+  path: python/bisphosphonates-25mcg---primary.py
+inputModule4:
+  class: File
+  path: python/bisphosphonates-femtab---primary.py
+inputModule5:
+  class: File
+  path: python/bisphosphonates-cycloprogynova---primary.py
+inputModule6:
+  class: File
+  path: python/bisphosphonates-trinovum---primary.py
+inputModule7:
+  class: File
+  path: python/bisphosphonates-polyestradiol---primary.py
+inputModule8:
+  class: File
+  path: python/bisphosphonates-ovestin---primary.py
+inputModule9:
+  class: File
+  path: python/bisphosphonates-015mg---primary.py
+inputModule10:
+  class: File
+  path: python/bisphosphonates-injsoln---primary.py
+inputModule11:
+  class: File
+  path: python/bisphosphonates-2microgram---primary.py
+inputModule12:
+  class: File
+  path: python/bisphosphonates-100mg---primary.py
+inputModule13:
+  class: File
+  path: python/bisphosphonates-750mcg---primary.py
+inputModule14:
+  class: File
+  path: python/bisphosphonates-indivina---primary.py
+inputModule15:
+  class: File
+  path: python/bisphosphonates-logynon---primary.py
+inputModule16:
+  class: File
+  path: python/bisphosphonates-zumenon---primary.py
+inputModule17:
+  class: File
+  path: python/bisphosphonates-pliva---primary.py
+inputModule18:
+  class: File
+  path: python/bisphosphonates-400mg---primary.py
+inputModule19:
+  class: File
+  path: python/bisphosphonates-520mg---primary.py
+inputModule20:
+  class: File
+  path: python/bisphosphonates-winthrop---primary.py
+inputModule21:
+  class: File
+  path: python/bisphosphonates-fentamox---primary.py
+inputModule22:
+  class: File
+  path: python/bisphosphonates-granule---primary.py
+inputModule23:
+  class: File
+  path: python/bisphosphonates-risedronate---primary.py
+inputModule24:
+  class: File
+  path: python/bisphosphonates-125mcg---primary.py
+inputModule25:
+  class: File
+  path: python/bisphosphonates-100ml---primary.py
+inputModule26:
+  class: File
+  path: python/bisphosphonates-120mg---primary.py
+inputModule27:
+  class: File
+  path: python/continuous-bisphosphonates---primary.py
+inputModule28:
+  class: File
+  path: python/bisphosphonates-oestroge---primary.py
+inputModule29:
+  class: File
+  path: python/bisphosphonates-copharma---primary.py
+inputModule30:
+  class: File
+  path: python/bisphosphonates-loestrin---primary.py
+inputModule31:
+  class: File
+  path: python/bisphosphonates-150mg---primary.py
+inputModule32:
+  class: File
+  path: python/bisphosphonates-trisequens---primary.py
+inputModule33:
+  class: File
+  path: python/minovlar-bisphosphonates---primary.py
+inputModule34:
+  class: File
+  path: python/bisphosphonates-femodene---primary.py
+inputModule35:
+  class: File
+  path: python/bisphosphonates-apstil---primary.py
+inputModule36:
+  class: File
+  path: python/bisphosphonates-patch---primary.py
+inputModule37:
+  class: File
+  path: python/bisphosphonates-focus---primary.py
+inputModule38:
+  class: File
+  path: python/bisphosphonates-ovran---primary.py
+inputModule39:
+  class: File
+  path: python/bisphosphonates-sugarcoated---primary.py
+inputModule40:
+  class: File
+  path: python/bisphosphonates-femapak---primary.py
+inputModule41:
+  class: File
+  path: python/bisphosphonates-climagest---primary.py
+inputModule42:
+  class: File
+  path: python/bisphosphonates-200mg---primary.py
+inputModule43:
+  class: File
+  path: python/bisphosphonates-nuvelle---primary.py
+inputModule44:
+  class: File
+  path: python/bisphosphonates-actonel---primary.py
+inputModule45:
+  class: File
+  path: python/bisphosphonates-fematrix---primary.py
+inputModule46:
+  class: File
+  path: python/bisphosphonates-noltam---primary.py
+inputModule47:
+  class: File
+  path: python/bisphosphonates-microgynon---primary.py
+inputModule48:
+  class: File
+  path: python/bisphosphonates-dienestrol---primary.py
+inputModule49:
+  class: File
+  path: python/bisphosphonates-800mg---primary.py
+inputModule50:
+  class: File
+  path: python/bisphosphonates-ellestesolo---primary.py
+inputModule51:
+  class: File
+  path: python/bisphosphonates-adgyn---primary.py
+inputModule52:
+  class: File
+  path: python/bisphosphonates-bonviva---primary.py
+inputModule53:
+  class: File
+  path: python/bisphosphonates-emblon---primary.py
+inputModule54:
+  class: File
+  path: python/bisphosphonates-drospirenone---primary.py
+inputModule55:
+  class: File
+  path: python/bisphosphonates-sequi---primary.py
+inputModule56:
+  class: File
+  path: python/bisphosphonates-fosamax---primary.py
+inputModule57:
+  class: File
+  path: python/bisphosphonates-dianette---primary.py
+inputModule58:
+  class: File
+  path: python/bisphosphonates-10x30---primary.py
+inputModule59:
+  class: File
+  path: python/bisphosphonates-nolvadex---primary.py
+inputModule60:
+  class: File
+  path: python/bisphosphonates-alphar---primary.py
+inputModule61:
+  class: File
+  path: python/bisphosphonates-estriol---primary.py
+inputModule62:
+  class: File
+  path: python/bisphosphonates-oestrifen---primary.py
+inputModule63:
+  class: File
+  path: python/bisphosphonates-zometa---primary.py
+inputModule64:
+  class: File
+  path: python/premique-bisphosphonates---primary.py
+inputModule65:
+  class: File
+  path: python/bisphosphonates-40mcg---primary.py
+inputModule66:
+  class: File
+  path: python/zoledronic-bisphosphonates---primary.py
+inputModule67:
+  class: File
+  path: python/bisphosphonates-ellesteduet---primary.py
+inputModule68:
+  class: File
+  path: python/bisphosphonates-ethinylestradiol---primary.py
+inputModule69:
+  class: File
+  path: python/output-cases.py
